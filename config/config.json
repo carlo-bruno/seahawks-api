@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "seahawks-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "seahawks-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "seahawks-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
