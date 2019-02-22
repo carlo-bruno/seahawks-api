@@ -13,7 +13,7 @@ module.exports = {
       }], {});
     */
 
-    return queryInterface.bulkInsert("games", [
+    return queryInterface.bulkInsert("players", [
       {
         firstName: "Russel",
         lastName: "Wilson",
